@@ -1,10 +1,10 @@
-package com.rony.mybatistest.controller;
+package com.rony.mybatistest.domain.controller;
 
 import com.rony.mybatistest.domain.users.dto.UsersCreateRequestDto;
 import com.rony.mybatistest.domain.users.dto.UsersResponseDto;
 import com.rony.mybatistest.domain.users.dto.UsersUpdateRequestDto;
 import com.rony.mybatistest.domain.users.mapper.UsersMapper;
-import com.rony.mybatistest.service.UsersService;
+import com.rony.mybatistest.domain.service.UsersService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

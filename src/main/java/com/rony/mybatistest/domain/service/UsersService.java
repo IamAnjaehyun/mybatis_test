@@ -1,4 +1,4 @@
-package com.rony.mybatistest.service;
+package com.rony.mybatistest.domain.service;
 
 import com.rony.mybatistest.domain.users.dto.UsersResponseDto;
 import com.rony.mybatistest.domain.users.dto.UsersUpdateRequestDto;
